@@ -1,0 +1,19 @@
+{
+  "name": "behav",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-drawing": "^3.0.0",
+    "purescript-partial": "^1.2.0",
+    "purescript-parallel": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
